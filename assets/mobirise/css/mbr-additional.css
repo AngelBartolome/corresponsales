@@ -2016,6 +2016,26 @@ body {
 .cid-r7P26mrAIK FONT {
   color: #ffffff;
 }
+.cid-rbY2ZjmSTn {
+  background-image: url("../../../assets/images/collage-2-batallas-1-2000x1414.jpg");
+}
+@media (min-width: 992px) {
+  .cid-rbY2ZjmSTn .mbr-figure {
+    padding-left: 4rem;
+  }
+}
+@media (max-width: 991px) {
+  .cid-rbY2ZjmSTn .mbr-figure {
+    padding-top: 3rem;
+  }
+}
+.cid-rbY2ZjmSTn .mbr-text,
+.cid-rbY2ZjmSTn .mbr-section-btn {
+  color: #232323;
+}
+.cid-rbY2ZjmSTn .mbr-section-title B {
+  color: #232323;
+}
 .cid-r6WpNRdZYC {
   padding-top: 45px;
   padding-bottom: 30px;
