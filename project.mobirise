@@ -704,6 +704,9 @@
             },
             "H2": {
               "text-align": "center"
+            },
+            "FONT": {
+              "color": "#ffffff"
             }
           },
           "_name": "slider1",
@@ -752,7 +755,7 @@
                 "customStyle1": "display-2",
                 "customStyle2": "display-5",
                 "customStyle3": "display-4",
-                "title": "<font color=\"#232323\"><b>Recorre los pasos de&nbsp;</b></font><font color=\"#232323\"><b>los&nbsp;</b></font><font color=\"#232323\"><b>primeros corresponsales del mundo</b></font>",
+                "title": "<b><font color=\"#232323\">Recorre los pasos de&nbsp;</font><font color=\"#232323\">los&nbsp;</font><font color=\"#232323\">primeros corresponsales del mundo</font></b>",
                 "overlay": true,
                 "contentAlign": "center",
                 "text": "",
